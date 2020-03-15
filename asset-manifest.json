@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/holiday-extra/static/css/main.5f361e03.chunk.css",
+    "main.js": "/holiday-extra/static/js/main.94cf373d.chunk.js",
+    "main.js.map": "/holiday-extra/static/js/main.94cf373d.chunk.js.map",
+    "runtime-main.js": "/holiday-extra/static/js/runtime-main.825a36e2.js",
+    "runtime-main.js.map": "/holiday-extra/static/js/runtime-main.825a36e2.js.map",
+    "static/js/2.d3e960eb.chunk.js": "/holiday-extra/static/js/2.d3e960eb.chunk.js",
+    "static/js/2.d3e960eb.chunk.js.map": "/holiday-extra/static/js/2.d3e960eb.chunk.js.map",
+    "index.html": "/holiday-extra/index.html",
+    "precache-manifest.7b1537cd00accf1ea20edaa6e86ff9d6.js": "/holiday-extra/precache-manifest.7b1537cd00accf1ea20edaa6e86ff9d6.js",
+    "service-worker.js": "/holiday-extra/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/holiday-extra/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d3e960eb.chunk.js.LICENSE.txt": "/holiday-extra/static/js/2.d3e960eb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/holiday-extra/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.825a36e2.js",
+    "static/js/2.d3e960eb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.94cf373d.chunk.js"
+  ]
+}
